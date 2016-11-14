@@ -1,2 +1,2 @@
-Boilerplate React App
+# Boilerplate React App
 Basic React Templates
